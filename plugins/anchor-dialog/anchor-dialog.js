@@ -79,7 +79,8 @@
                                 return false;
                             }*/
                             
-                            var str = "<a href=\"javascript:void(0);\" ato=\"" + url + "\">" + title + "</a>"
+                            // var str = "<a href=\"javascript:void(0);\" ato=\"" + url + "\">" + title + "</a>";
+                            var str = "<a href=\"javascript:;\" ato=\"" + url + "\">" + title + "</a>";
                             
                             if (title == "")
                             {
