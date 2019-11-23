@@ -1,7 +1,7 @@
 /*!
- * Anchor dialog plugin for Editor.md
+ * Alink dialog plugin for Editor.md
  *
- * @file        anchor-dialog.js
+ * @file        alink-dialog.js
  * @author      tianlunvip
  * @version     1.2.1
  * @updateTime  2015-06-09
