@@ -79,7 +79,7 @@
                                 return false;
                             }*/
                             
-                            var str = "<a href=\"javascript:;\" ato=\"" + url + "\">" + title + "</a>";
+                            var str = "<a href=\"" + url + "\" target="_blank">" + title + "</a>";
                             
                             if (title == "")
                             {
