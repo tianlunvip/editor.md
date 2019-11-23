@@ -13,9 +13,9 @@
 
     var factory = function (exports) {
 
-		var pluginName   = "anchor-dialog";
+		var pluginName   = "alink-dialog";
 
-		exports.fn.anchorDialog = function() {
+		exports.fn.alinkDialog = function() {
 
 			var _this       = this;
 			var cm          = this.cm;
